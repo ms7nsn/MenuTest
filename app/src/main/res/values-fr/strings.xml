@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MenuTest</string>
+    <string name="tab_menus">Menus</string>
+    <string name="tab_discover">Détecter</string>
+    <string name="tab_settings">Réglages</string>
+    <string name="your_device">Votre appareil</string>
+    <string name="search_hint">Rechercher un menu ou un code</string>
+    <string name="filter_mine">Mon appareil</string>
+    <string name="filter_all">Toutes les marques</string>
+    <string name="only_available">Seulement ceux disponibles</string>
+    <string name="open">Ouvrir</string>
+    <string name="found_here">Trouvé sur cet appareil</string>
+    <string name="not_found_here">Introuvable sur cet appareil</string>
+    <string name="no_results">Aucun menu ne correspond</string>
+    <string name="sent_msg">Demande envoyée. Si rien ne s\'affiche, ce menu n\'est pas géré par votre appareil.</string>
+    <string name="unavailable_title">Non disponible directement</string>
+    <string name="unavailable_msg">Cet appareil n\'expose pas ce menu aux applications. Vous pouvez quand même l\'essayer depuis le composeur.</string>
+    <string name="copy_code">Copier le code</string>
+    <string name="open_dialer">Ouvrir le composeur</string>
+    <string name="close">Fermer</string>
+    <string name="code_copied">Code copié</string>
+    <string name="scan">Analyser cet appareil</string>
+    <string name="scanning">Analyse en cours…</string>
+    <string name="scan_hint">Recherche les écrans d\'ingénierie, d\'usine et de test installés sur ce téléphone et ouvre ceux que le système autorise.</string>
+    <string name="scan_done">%1$d écran(s) trouvé(s)</string>
+    <string name="exported">Ouvrable</string>
+    <string name="not_exported">Bloqué par le système</string>
+    <string name="needs_permission">Protégé par une permission</string>
+    <string name="blocked_msg">Le système a refusé d\'ouvrir cet écran.</string>
+    <string name="language">Langue</string>
+    <string name="lang_system">Langue du système</string>
+    <string name="lang_en">English</string>
+    <string name="lang_fr">Français</string>
+    <string name="vibration">Vibrations</string>
+    <string name="vibration_desc">Courte vibration à l\'ouverture d\'un menu</string>
+    <string name="about">À propos</string>
+    <string name="about_text">MenuTest ouvre directement les menus de test et de service cachés des téléphones Android, sans taper de code. La disponibilité dépend de la marque, du modèle et de la version d\'Android. Utilisez ces menus avec précaution.</string>
+    <string name="version">Version %1$s</string>
+</resources>
